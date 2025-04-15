@@ -1,0 +1,11 @@
+build:
+  version: 3.0
+
+contacts:
+  message: "Welcome to EazyBank Loans related Local APIs"
+  contactDetails:
+    name: "Aravinda Kumar - Developer"
+    email: "aravinda@eazybank.com"
+  onCallSupport:
+    - (545)555-5466
+    - (545)523-6677
