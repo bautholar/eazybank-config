@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related to Prod APIs"
+  contactDetails:
+    name: "Alex Star - Product Owner"
+    email: "alex@eazybank.com"
+  onCallSupport:
+    - (777)555-3543
+    - (777)523-6544
