@@ -1,0 +1,11 @@
+build:
+  version: 2.0
+
+contacts:
+  message: "Welcome to EazyBank Loans related QA APIs"
+  contactDetails:
+    name: "Govind Ram - QA head"
+    email: "govind@eazybank.com"
+  onCallSupport:
+    - (323)555-3332
+    - (323)523-4323
