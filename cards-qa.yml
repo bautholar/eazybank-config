@@ -1,0 +1,11 @@
+build:
+  version: 2.0
+
+contacts:
+  message: "Welcome to EazyBank Cards related QA APIs"
+  contactDetails:
+    name: "Peeky Blinder - QA head"
+    email: "peeky@eazybank.com"
+  onCallSupport:
+    - (333)555-5443
+    - (333)523-5534"
