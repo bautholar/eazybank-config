@@ -1,0 +1,11 @@
+build:
+  version: 1.0
+
+contacts:
+  message: "Welcome to EazyBank Cards related Prod APIs"
+  contactDetails:
+    name: "Jhon Snow - Product Owner"
+    email: "jhon@eazybank.com"
+  onCallSupport:
+    - (222)555-4423
+    - (222)523-4434"
