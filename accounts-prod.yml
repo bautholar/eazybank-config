@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EazyBank accounts related to Prod APIs"
   contactDetails:
     name: "Alex Star - Product Owner"
-    email: "{cypher}a828e7812bb0a0d453303b46f7998134ee4ec32eca67ebb770e7f717b8427b9cbd820c3ddd5a7f460a285e5ca5c325a5"
+    email: "{cipher}a828e7812bb0a0d453303b46f7998134ee4ec32eca67ebb770e7f717b8427b9cbd820c3ddd5a7f460a285e5ca5c325a5"
   onCallSupport:
     - (777)555-3543
     - (777)523-6544
